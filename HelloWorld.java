@@ -10,7 +10,7 @@ class HelloWorld {
 
 		toetsenbord.close();
 
-		System.out.println("Hello " + naam + "! Je ziet er goed (voor je leeftijd).");
+		System.out.println("Hello " + naam + "! Goed om je te zien!");
 	}
 
 }
